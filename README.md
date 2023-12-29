@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/melcal04/melcal04/blob/main/Images/Banner.jpg)
+![Banner Image](https://github.com/melcal04/melcal04/blob/main/images/Banner.jpg)
 
 # 👋 Welcome to Mel's Automation Testing Hub! 🚀
 
