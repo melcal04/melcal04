@@ -7,4 +7,4 @@ We're all about top-notch software quality—exploring cutting-edge testing meth
 ⚡ Here are some fun facts: Why do programmers prefer dark mode? Because light attracts bugs!
 
 ### You can find me here:
-[![Email](https://img.shields.io/badge/Email-melchorcallos04%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:melchorcallos04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-melchor@octagonexpress.co-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:melchor@octagonexpress.co)
